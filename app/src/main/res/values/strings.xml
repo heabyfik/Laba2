@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Not Forgot!</string>
+    <string name="enter">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="check_in">Регистрация</string>
+    <string name="name_hint">  Name</string>
+    <string name="yourmail_hint">  yourmail</string>
+    <string name="psd_hint">  password</string>
+    <string name="check_in_do">Зарегистрироваться</string>
+    <string name="enter_do">Войти</string>
+    <string name="repeat_password">repeat password</string>
+</resources>
